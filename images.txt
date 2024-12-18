@@ -4,7 +4,7 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 nevinee/qbittorrent
 linuxserver/qbittorrent
-linuxserver/transmission:4.0.4
+linuxserver/transmission:4.0.3
 iyuucn/iyuuplus
 emby/embyserver
 nastool/nas-tools
