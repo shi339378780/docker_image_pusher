@@ -11,7 +11,7 @@ nastool/nas-tools
 jellyfin/jellyfin
 nginx
 ddsderek/qbittorrent_skip_patch
-emby/embyserver
+linuxserver/emby
 jellyfin/jellyfin
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
