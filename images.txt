@@ -1,14 +1,8 @@
-nginx
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+# nginx
+# k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+# xhofe/alist:latest
 linuxserver/qbittorrent
 linuxserver/transmission
 iyuucn/iyuuplus
-emby/embyserver
-nastool/nas-tools
-jellyfin/jellyfin
-ddsderek/qbittorrent_skip_patch
-
-linuxserver/syncthing
-#支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
+# 支持指定架构
+# --platform=linux/arm64 xiaoyaliu/alist
