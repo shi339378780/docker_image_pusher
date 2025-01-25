@@ -13,5 +13,6 @@ nginx
 ddsderek/qbittorrent_skip_patch
 linuxserver/emby
 jellyfin/jellyfin
+linuxserver/syncthing
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
